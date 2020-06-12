@@ -1,0 +1,7 @@
+﻿  MainLW5.cpp
+  Menu.cpp
+C:\Users\User\source\repos\Lab5\Lab5\Menu.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PaidUser.cpp
+  User.cpp
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\User\source\repos\Lab5\x64\Debug\Lab5.exe
